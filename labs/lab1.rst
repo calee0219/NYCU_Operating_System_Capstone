@@ -47,7 +47,7 @@ Otherwise, it may lead to undefined behaviors.
 Requirement 2
 =============
 
-Mini UART 
+Mini UART
 ---------
 
 You'll use UART as a bridge between rpi3 and host computer for all the labs.
@@ -75,7 +75,7 @@ hello    print Hello World!
 ``required 3`` Implement a simple shell supporting the listed commands.
 
 .. note::
-  There may be some text alignment issue on screen IO, think about \r\n on both input and output.
+  There may be some text alignment issue on screen IO, think about \\r\\n on both input and output.
 
 ********
 Elective
